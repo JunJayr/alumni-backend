@@ -1,0 +1,1 @@
+web: gunicorn alumni_registration.wsgi --log-file - 
